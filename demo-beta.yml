@@ -1,2 +1,5 @@
 app:
-  message: beta message
+  message1: beta message1
+  message2: beta message2
+  number1: 11
+  number2: 12
