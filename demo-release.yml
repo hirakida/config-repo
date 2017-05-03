@@ -1,2 +1,5 @@
 app:
-  message: release message
+  message1: release message1
+  message2: release message2
+  number1: 21
+  number2: 22
