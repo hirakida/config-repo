@@ -1,0 +1,5 @@
+app:
+  message1: default message1
+  message2: default message2
+  number1: 31
+  number2: 32
